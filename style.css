@@ -1,0 +1,94 @@
+body{font-family: 'Otomanopee One', sans-serif;
+    margin: 0;}
+    h1{
+        font-size: 50px;
+    }
+    
+    .orange-color{
+        color: orange;
+        
+    }
+
+    .blue-color{
+        color: blue;
+    }
+    .half-width{
+    
+        width: 50%;
+        padding-left: 5%;
+    }
+    .half-width img {
+        width: 100%;
+    }
+    .order-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+        padding: 8px 30px;
+        border-radius: 5px;
+    }
+    .second{
+    
+        background-image: url(images/Frame\ 57.jpg);
+        background-repeat: no-repeat;
+        
+    
+    }
+    .products-sec{
+
+        width: 40%;
+        padding-left: 10px;
+        margin-left: 1%;
+        margin-right: 1%;
+        box-shadow: 10px 10px 30px rgb(83, 77, 76) ;
+        border-radius: 5%;
+        
+    }
+    .products-sec img {
+        height: 300px;
+        width: 90%;
+        margin: 10px 10px;
+    }
+  
+    #person-img img {
+        height: 400px;
+        width: 50%;
+        margin-left: 80px;
+
+}
+    .ceo-sec {
+        width: 50%;
+        padding-left: 0%;
+    }
+    .other-priducts{
+        text-align: center;
+    }
+    
+    .sec{
+        display: flex;
+        margin-top: 5%;
+    }
+    footer {
+        margin-top: 5%;
+        border-radius: 5px;
+        background-color: grey;
+    }
+    footer p{
+        text-align: center;
+    
+    }
+    footer h2 {
+        text-align: center;
+        color: rgb(22, 22, 22);
+        
+    }
+    .sign-up {
+        margin-top: 5%;
+        margin-left: 0px;
+    }
+    #sign {
+        margin-left: 550px;
+    }
+    #signup {
+        margin-left: 550px;
+
+    }
